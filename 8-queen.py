@@ -40,3 +40,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+sample input:
+Enter the size of the chessboard: 8
+sample output:
+Q . . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . Q . . . . .
