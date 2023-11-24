@@ -62,3 +62,7 @@ start_vertex = 'A'
 goal_vertex = 'E'
 shortest_path_cost = astar(g, start_vertex, goal_vertex)
 print(f"Shortest path cost from {start_vertex} to {goal_vertex}: {shortest_path_cost}")
+
+
+output:
+Shortest path cost from A to E: 11
