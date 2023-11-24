@@ -136,3 +136,24 @@ final = [ [ 1, 2, 3 ],
 empty_tile_posi = [ 1, 2 ]  
   
 solve(initial, empty_tile_posi, final)  
+
+
+
+output:
+1  2  3  
+5  6  0  
+7  8  4  
+
+1  2  3  
+5  0  6  
+7  8  4  
+
+1  2  3  
+5  8  6  
+7  0  4  
+
+1  2  3  
+5  8  6  
+0  7  4  
+
+
